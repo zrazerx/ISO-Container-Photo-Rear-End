@@ -17,9 +17,9 @@ container type:
     ISO container       40feet 45G1  
     None-ISO container  20feet 2NUA  
     None-ISO container  20feet 2NU0  
-    None-ISO container  20feet 2NG1
-    None-ISO container  40feet 4NG1
-    None-ISO container  45feet LNG1
+    None-ISO container  20feet 2NG1  
+    None-ISO container  40feet 4NG1  
+    None-ISO container  45feet LNG1  
     
 =========================================   
 

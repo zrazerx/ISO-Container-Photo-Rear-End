@@ -14,13 +14,10 @@ At the same time, I compressed these photos in advance, some maybe really poor.
 ==========================================
 
 container type:   
-    ISO container       20feet 22G1  
-    ISO container       40feet 45G1  
-    None-ISO container  20feet 2NUA  
-    None-ISO container  20feet 2NU0  
-    None-ISO container  20feet 2NG1  
-    None-ISO container  40feet 4NG1  
-    None-ISO container  45feet LNG1  
+    Universal container       20GP  
+    Universal container       40HQ
+    None-ISO container        20OT  
+    None-ISO container        20HQ     
     
 =========================================   
 

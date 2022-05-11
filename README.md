@@ -15,7 +15,7 @@ At the same time, I compressed these photos in advance, some maybe really poor.
 
 container type:   
     Universal container       20GP  
-    Universal container       40HQ
+    Universal container       40HQ  
     None-ISO container        20OT  
     None-ISO container        20HQ     
     

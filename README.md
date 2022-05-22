@@ -21,8 +21,7 @@ container type:
     
 =========================================   
 
- # If you are also concerned about the damage detection of containers, you can contact me by email.
- ![image](https://github.com/zrazerx/information/blob/main/setting_qrcode_card.jpg)
+ # If you are also concerned about the damage detection of containers, you can leave an issue, i will response ASAP.
 
  
 
